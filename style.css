@@ -2,6 +2,7 @@ body{
   font-family: 'Poppins', sans-serif;
   margin: 0;
 }
+/* top-area */
 h1{
   font-size: 50px;
 }
@@ -38,4 +39,13 @@ section{
 .top-area{
   background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
+}
+/* dream area */
+h2{
+  font-size: 40px;
+}
+.dream-area{
+  background-image: url("images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
